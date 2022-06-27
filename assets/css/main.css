@@ -2046,7 +2046,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #222629 url("images/overlay.png");
+		background: #3399ff url("images/overlay.png");
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
 		color: #fff;
 		height: 100%;
@@ -2247,9 +2247,10 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background: #3399ff;
+				
 			}
+			
 
 			#main > section.two {
 				background-color: #f5fafa;
@@ -2447,6 +2448,8 @@ input, select, textarea {
 				#header .top {
 					position: relative;
 				}
+				
+				
 
 				#header .bottom {
 					border-top: solid 1px rgba(255, 255, 255, 0.05);
