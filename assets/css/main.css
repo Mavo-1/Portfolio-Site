@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #E27689;
+			color: #FF9933;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -2006,7 +2006,7 @@ input, select, textarea {
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #8ebebc;
+		background-color: #959595;
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -2024,7 +2024,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #9ececc;
+			background-color: #19CEDA;
 		}
 
 		input[type="button"]:active,
@@ -2104,9 +2104,9 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #3399ff url("images/overlay.png");
+		background: #111F51 url("images/overlay.png");
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
-		color: #fff;
+		color: #ffffff;
 		height: 100%;
 		left: 0;
 		overflow-y: auto;
@@ -2141,7 +2141,7 @@ input, select, textarea {
 		}
 
 			#header .icons a {
-				color: #41484c;
+				color: #19CEDA;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
@@ -2149,7 +2149,7 @@ input, select, textarea {
 			}
 
 				#header .icons a:hover {
-					color: #fff;
+					color: #19CEDA;
 				}
 
 	#logo {
@@ -2161,7 +2161,7 @@ input, select, textarea {
 
 		#logo h1 {
 			position: relative;
-			color: #fff;
+			color: #19CEDA;
 			font-weight: 600;
 			font-size: 1em;
 			line-height: 1em;
@@ -2171,7 +2171,7 @@ input, select, textarea {
 			position: relative;
 			display: block;
 			font-size: 0.6em;
-			color: rgba(255, 255, 255, 0.5);
+			color: #19CEDA;
 			line-height: 1.25em;
 			margin: 0.5em 0 0 0;
 		}
@@ -2195,7 +2195,7 @@ input, select, textarea {
 			#nav ul li a {
 				display: block;
 				padding: 0.5em 1.5em 0.5em 1.5em;
-				color: rgba(255, 255, 255, 0.5);
+				color: rgb(255, 253, 253);
 				text-decoration: none;
 				outline: 0;
 				border: 0;
@@ -2214,7 +2214,7 @@ input, select, textarea {
 					#nav ul li a span:before {
 						position: absolute;
 						left: 0;
-						color: #41484c;
+						color: #19CEDA;
 						text-align: center;
 						width: 1.25em;
 						line-height: 1.75em;
@@ -2227,7 +2227,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #504211;
 					}
 
 /* Footer */
@@ -2305,7 +2305,7 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background: #3399ff;
+				background: #111F50;
 				
 			}
 			
