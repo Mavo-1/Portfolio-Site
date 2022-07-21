@@ -88,7 +88,7 @@ input, select, textarea {
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: rgb(255, 255, 255);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -112,7 +112,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: rgb(241, 238, 238);
 		line-height: 1.5em;
 	}
 
@@ -2043,7 +2043,7 @@ input, select, textarea {
 	}
 
 		.item header {
-			background: #fff;
+			background: #111F50;
 			margin: 0;
 			padding: 1em 0 1em 0;
 			font-size: 0.8em;
@@ -2223,7 +2223,7 @@ input, select, textarea {
 				#nav ul li a.active {
 					background: rgba(0, 0, 0, 0.15);
 					box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125);
-					color: #fff;
+					color: rgb(255, 255, 255);
 				}
 
 					#nav ul li a.active span:before {
@@ -2235,7 +2235,7 @@ input, select, textarea {
 	#footer {
 		margin-left: 375px;
 		text-align: center;
-		background-color: #dce3e2;
+		background-color: #111E4F;
 		padding: 3em 0 4em 0;
 		box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
 		font-size: 0.8em;
@@ -2311,15 +2311,15 @@ input, select, textarea {
 			
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: #202124;
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #202124;
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #202124;
 			}
 
 /* Wide */
