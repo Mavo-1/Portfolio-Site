@@ -121,3 +121,12 @@
 				});
 
 })(jQuery);
+
+ /* light dark mode button credit: https://codepen.io/PaulinaSurazynska/pen/bGVpBOb*/
+ const checkbox = document.getElementById('checkbox');
+
+ checkbox.addEventListener('change', ()=>{
+   document.body.classList.toggle('dark');
+ 
+ 
+ })
