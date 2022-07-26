@@ -1875,6 +1875,7 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		height: 50px;
 	}
 
 		ul.icons li {
@@ -1885,9 +1886,9 @@ input, select, textarea {
 		ul.icons a {
 			display: inline-block;
 			width: 2em;
-			height: 2em;
-			line-height: 2em;
-			text-align: center;
+			height: 3.5em;
+			line-height: 2.5em;
+			text-align: left;
 			border: 0;
 		}
 
@@ -2691,4 +2692,75 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
+	}
+
+	/* dark and light mode */
+
+.checkbox {
+	opacity: 0;
+	position: absolute;
+  }
+  
+  .label {
+	width: 50px;
+	height: 25px;
+	background-color:#19CEDA;
+	display: flex;
+	border-radius:25px;
+	align-items: center;
+	justify-content: space-between;
+	padding: 3px;
+	position: relative;
+	transform: scale(1.2);
+	top: -1px;
+	margin-left: 10px;
+	
+	
+  
+  }
+  
+  .ball {
+	width: 23px;
+	height: 23px;
+	background-color: #111F51;
+	position: absolute;
+   
+	left: 1px;
+	border-radius: 50%;
+	transition: transform 0.3s linear;
+  }
+  
+  /*  target the elemenent after the label*/
+  .checkbox:checked + .label .ball{
+	transform: translateX(24px);
+  }
+  
+  .fa-moon {
+	color: rgb(134, 158, 244);
+	text-shadow:
+	  0 0 2px white,
+	  0 0 2px white,
+	  0 0 2px white,
+	  0 0 2px rgba(181,166,249), 
+	  0 0 2px rgba(245,156,251), 
+	  0 0 2px rgba(193,126,251), 
+	  0 0 2px rgba(181,166,249), 
+	  0 0 2px rgba(134,158,244);
+  }
+  
+  .fa-sun {
+	color: rgb(233, 245, 107);
+	padding-left: 5px;
+  
+  }
+  
+  body.dark{
+	background-color: #292c35;
+	background-image: url("/images/backgrounddark.jpg");
+	color: white !important;
+  
+  }
+  
+  a.dark {
+	background-color: white !important;
 	}
