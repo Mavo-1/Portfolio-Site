@@ -2234,7 +2234,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		height: 8em;
+		height: 10em;
 		margin-left: 375px;
 		text-align: center;
 		background-color: #6280e9;
@@ -2758,7 +2758,9 @@ input, select, textarea {
 				}
 
 		/* Footer */
-
+			#footer{
+				height: 5em;	
+			}
 			#footer .copyright li {
 				display: block;
 				line-height: 1.25em;
