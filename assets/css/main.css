@@ -1921,7 +1921,7 @@ input, select, textarea {
 		display: block;
 		border: 0;
 		outline: 0;
-		background: #fff;
+		background: rgb(253, 246, 246);
 		background: rgba(255, 255, 255, 0.75);
 		width: 100%;
 		border-radius: 0.35em;
@@ -1940,7 +1940,7 @@ input, select, textarea {
 		form select:focus,
 		form textarea:focus {
 			box-shadow: 0 0 2px 1px #8ebebc;
-			background: #fff;
+			background: rgb(105, 103, 103);
 		}
 
 	form input[type="text"],
