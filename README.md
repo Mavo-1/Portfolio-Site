@@ -1,28 +1,20 @@
-My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+# My Portfolio
+This is my website that shows all my client work and apps that I've created. 
 
-Link to project: http://recruiters-love-seeing-live-demos.com/
+**Link to project:** alexgarcia.netlify.app
 
-alt tag
+![alt tag](https://alexgarcia.netlify.app)
 
-How It's Made:
-Tech used: HTML, CSS, JavaScript, Framework of choice
+## How It's Made:
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write something. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+**Tech used:** HTML, CSS, JavaScript, 
 
-Optimizations
-(optional)
+I had so much fun creating my own portfolio website and adding all the work I have done and are most proud of to show to everyone. 
 
-You don't have to include this section but interviewers love that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are GREAT to bring up in interviews and you can use this section as reference when studying for technical interviews!
 
-Lessons Learned:
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those whoa this is awesome or fuck yeah I did it! moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+## Lessons Learned:
 
-Examples:
-Take a look at these couple examples that I have in my own portfolio:
+I never felt like my porfolio website was enough so i constantly would add small things to it just to make it a bit better. I added the neon social link buttons towards the end and learned quite a bit in that process. I made sure to mess around with the color schemes to see what would have the best fit. I spent a decent amount of time learning which colors fit best with others. My favorite thing I learned from this project was working with the footer to add a waves affect. I had trouble with the height and empty space but figured it out and love the way it looks at the moment.
 
-Palettable: https://github.com/alecortega/palettable
 
-Twitter Battle: https://github.com/alecortega/twitter-battle
 
-Patch Panel: https://github.com/alecortega/patch-panel
