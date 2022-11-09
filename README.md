@@ -1,14 +1,16 @@
-My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+My Portfolio
+This is my website to demonstrate my client work and apps I've created. 
 
-Link to project: http://recruiters-love-seeing-live-demos.com/
+Link to project: https://alexgarcia.netlify.app
 
 alt tag
 
 How It's Made:
-Tech used: HTML, CSS, JavaScript, Framework of choice
+Tech used: HTML, CSS, JavaScript, 
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write something. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+
+I had so much fun creating a website that would help me showcase my work for all to see. I started with the html and then spent most of the time on the css and js.
+
 
 Optimizations
 (optional)
