@@ -2245,7 +2245,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		height: 4em;
+		height: 6.5em;
 		margin-left: 375px;
 		text-align: center;
 		background-color: #6280e9;
@@ -2278,7 +2278,7 @@ input, select, textarea {
 					position:relative;
 					text-align:center;
 					background: linear-gradient(60deg, #081236 0%, #1e6fda 100%);
-					color:white;
+					color:#1e6fda;
 				  }
 
 				  .inner-header {
