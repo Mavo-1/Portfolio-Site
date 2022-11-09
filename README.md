@@ -1,7 +1,7 @@
 # My Portfolio
 This is my website that shows all my client work and apps that I've created. 
 
-**Link to project:** alexgarcia.netlify.app
+**Link to project:** http://alexgarcia.netlify.app//
 
 ![alt tag](https://alexgarcia.netlify.app)
 
