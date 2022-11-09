@@ -3,7 +3,8 @@ This is my website that shows all my client work and apps that I've created.
 
 **Link to project:** http://alexgarcia.netlify.app//
 
-![alt tag](https://alexgarcia.netlify.app)
+<img width="1396" alt="Screen Shot 2022-11-09 at 1 56 18 PM" src="https://user-images.githubusercontent.com/103069153/200928516-de8857d9-9751-4fe8-8026-bd1065d2eded.png">
+
 
 ## How It's Made:
 
