@@ -8,7 +8,7 @@ This is my website that shows all my client work and apps that I've created.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, 
+**Tech used:** HTML, CSS, and some JavaScript, 
 
 I had so much fun creating my own portfolio website and adding all the work I have done and are most proud of to show to everyone. 
 
