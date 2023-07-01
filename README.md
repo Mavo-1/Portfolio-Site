@@ -10,12 +10,25 @@ This is my website that shows all my client work and apps that I've created.
 
 **Tech used:** HTML, CSS, and some JavaScript, 
 
-I had so much fun creating my own portfolio website and adding all the work I have done and are most proud of to show to everyone. 
-
 
 ## Lessons Learned:
 
-I never felt like my porfolio website was enough so i constantly would add small things to it just to make it a bit better. I added the neon social link buttons towards the end and learned quite a bit in that process. I made sure to mess around with the color schemes to see what would have the best fit. I spent a decent amount of time learning which colors fit best with others. My favorite thing I learned from this project was working with the footer to add a waves affect. I had trouble with the height and empty space but figured it out and love the way it looks at the moment.
+During the development of my HTML/CSS portfolio site, I gained valuable insights and experiences that contributed to my growth as a web developer. Here are some key lessons I learned:
 
+Importance of Planning: I discovered the significance of thorough planning before diving into the coding process. Defining project goals, wireframing, and organizing content helped me streamline the development process and achieve better results.
+
+Responsive Design: Building a responsive website was crucial to ensure optimal user experience across various devices. I learned how to use media queries effectively, implement flexible layouts, and optimize images to create a seamless and adaptive design.
+
+CSS Flexbox and Grid: By utilizing CSS flexbox and grid systems, I was able to create complex and dynamic layouts with ease. Understanding the power and versatility of these CSS features improved my ability to arrange and align elements effectively.
+
+Code Structure and Organization: As my project grew in complexity, maintaining a well-structured and organized codebase became essential. I learned the importance of modularizing CSS styles, utilizing meaningful class and ID names, and documenting my code to enhance readability and maintainability.
+
+Cross-Browser Compatibility: Ensuring consistent website performance across different browsers and devices was a significant challenge. I learned how to identify and fix compatibility issues by testing my site on multiple browsers and using appropriate fallbacks and polyfills.
+
+Continuous Learning: Throughout the development process, I embraced the concept of continuous learning. Regularly exploring new HTML/CSS techniques, staying updated with best practices, and seeking solutions to problems further expanded my skillset.
+
+Collaboration and Feedback: Seeking feedback from peers and incorporating constructive criticism greatly improved the quality of my work. Collaborating with others allowed me to learn from their perspectives, refine my code, and foster a growth-oriented mindset.
+
+Overall, developing my HTML/CSS portfolio site taught me invaluable lessons in project planning, responsive design, CSS layout systems, code organization, cross-browser compatibility, continuous learning, and the importance of collaboration. These lessons will undoubtedly shape my future projects and contribute to my growth as a web developer.
 
 
