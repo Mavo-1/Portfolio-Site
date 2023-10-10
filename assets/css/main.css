@@ -29,6 +29,10 @@ body {
 	line-height: 1;
 }
 
+a, a:active, a:focus {
+	outline: none;
+	text-decoration: none;
+ }
 
 ol, ul {
 	list-style: none;
