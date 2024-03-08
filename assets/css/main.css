@@ -289,12 +289,19 @@ input, select, textarea {
 		max-width: 100%;
 		width: 1400px;
 		max-height: 3000px;
+		
 
 	}
 
+	
+	
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
 
 			.container {
+				width: 1200px;
+			}
+
+			.box {
 				width: 1200px;
 			}
 
@@ -306,6 +313,11 @@ input, select, textarea {
 				width: 960px;
 			}
 
+			.box {
+				width: 960px;
+			}
+
+
 		}
 
 		@media screen and (min-width: 961px) and (max-width: 1320px) {
@@ -314,6 +326,9 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.box {
+				width: 100%;
+			}
 		}
 
 		@media screen and (max-width: 960px) {
@@ -322,11 +337,19 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.box {
+				width: 100%;
+			}
+
 		}
 
 		@media screen and (max-width: 736px) {
 
 			.container {
+				width: 100%;
+			}
+
+			.box {
 				width: 100%;
 			}
 
@@ -1853,6 +1876,7 @@ input, select, textarea {
 			flex-direction: row;
 			width: 100%;
 			height: 90px;
+			border: solid rgba(255, 255, 255, 0.425);
 			
 		}
 
@@ -2083,6 +2107,65 @@ input, select, textarea {
 			.item header h3 {
 				font-size: 1em;
 			}
+
+/* Final Score */
+
+#finalScore{
+	text-align: center;
+}
+
+.score {
+	display: inline-block;
+	text-align: left;
+	margin: 0 auto;
+	max-width: 100%;
+	box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
+	margin-bottom: 40px;
+}
+
+	video {
+	width: 100%;
+	height: auto;
+	border: solid rgba(255, 255, 255, 0.425);
+}
+
+	.score header {
+
+		background: #111F50;
+		margin: 0;
+		padding: 1em 0 ;
+		font-size: 1em;
+		border: solid rgba(255, 255, 255, 0.425);
+	}
+
+		.score header h3 {
+			font-size: 1em;
+		}
+
+		/* Final Score container */
+	.box {
+		max-width:1000px; /* Adjust the maximum width as needed */
+		margin: 0 auto; /* Center the container horizontally */
+		padding: 0 20px; /* Add padding to prevent content from sticking to the edges */
+		
+	}
+	
+	.box .row {
+		display: flex;
+		justify-content: center;
+		
+	}
+	
+	.box .row .col-4 {
+		flex: 0 0 auto;
+		width: 33.333333%;
+		
+	}
+	
+	.box .row .col-4.col-12-mobile {
+		width: 100%;
+	}
+	
 
 /* Icons */
 
@@ -2501,6 +2584,11 @@ input, select, textarea {
 				padding: 0 2em 0 2em;
 			}
 
+			.box {
+				padding: 0 2em 0 2em;
+			}
+
+
 		/* Icons */
 
 			ul.icons li a {
@@ -2580,6 +2668,10 @@ input, select, textarea {
 				padding: 0 2em 0 2em;
 			}
 
+			.box {
+				padding: 0 2em 0 2em;
+			}
+
 		/* Item */
 
 			.item {
@@ -2615,6 +2707,7 @@ input, select, textarea {
 				width: 275px;
 				background: #222729 url("images/overlay.png");
 				box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.125);
+				border: solid rgba(255, 255, 255, 0.425);
 			}
 
 				#header .top {
@@ -2767,6 +2860,10 @@ input, select, textarea {
 			}
 
 			.container {
+				padding: 0 15px 0 15px;
+			}
+
+			.box {
 				padding: 0 15px 0 15px;
 			}
 
